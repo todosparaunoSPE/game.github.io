@@ -57,8 +57,6 @@ const questionsAhorro = [
 &nbsp;
 &nbsp;
 
-<A HREF="otra_pagina.html"> Este es un link </A>
-    
 ];
 
 // Definir las questions sobre inversión
