@@ -51,6 +51,11 @@ const questionsAhorro = [
         respuestaCorrecta: 1
     },
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <A HREF="otra_pagina.html"> Este es un link </A>
     
