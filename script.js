@@ -50,13 +50,6 @@ const questionsAhorro = [
         options: ["La planificación financiera es solo para personas con altos ingresos", "La planificación financiera implica establecer metas financieras y crear un plan para alcanzarlas", "La planificación financiera no es importante para el ahorro"],
         respuestaCorrecta: 1
     },
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 ];
 
 // Definir las questions sobre inversión
